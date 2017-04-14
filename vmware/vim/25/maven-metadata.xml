@@ -1,0 +1,8 @@
+<metadata>
+	<groupId>vmware</groupId>
+	<artifactId>vim</artifactId>
+	<versioning>
+		<latest>25</latest>
+		<release>25</release>
+	</versioning>
+</metadata>
