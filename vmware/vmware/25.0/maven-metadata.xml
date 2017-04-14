@@ -1,0 +1,8 @@
+<metadata>
+	<groupId>vmware</groupId>
+	<artifactId>vmware</artifactId>
+	<versioning>
+		<latest>25.0</latest>
+		<release>25.0</release>
+	</versioning>
+</metadata>
